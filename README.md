@@ -1,8 +1,13 @@
 Aula 17 — Integração Contínua, Qualidade Automatizada, Métricas e Gestão de Defeitos — LocalEats
 
-👥 Integrantes
+## 👥 Integrantes
 
-NomeGitHubFelipe Ponciano@P0ncianoChristiano Dias Ferraz@ChristianoFerrazLucas Devantier Pinto@Devantier2002Anthony Martins de Castro@anthonymcastr
+| Nome | GitHub |
+|---|---|
+| Felipe Ponciano | @P0nciano |
+| Christiano Dias Ferraz | @ChristianoFerraz |
+| Lucas Devantier Pinto | @Devantier2002 |
+| Anthony Martins de Castro | @anthonymcastr |
 
 🔹 1. Repositório da Atividade
 
